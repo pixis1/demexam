@@ -1,0 +1,252 @@
+﻿id_country;name_russian;name_english;country_code_letter;country_code_number
+1;Абхазия;Abkhazia;AB;895
+2;Австралия;Australia;AU;36
+3;Австрия;Austria;AT;40
+4;Азербайджан;Azerbaijan;AZ;31
+5;Албания;Albania;AL;8
+6;Алжир;Algeria;DZ;12
+7;Американское Самоа;American Samoa;AS;16
+8;Ангилья;Anguilla;AI;660
+9;Ангола;Angola;AO;24
+10;Андорра;Andorra;AD;20
+11;Антарктида;Antarctica;AQ;10
+12;Антигуа и Барбуда;Antigua and Barbuda;AG;28
+13;Аргентина;Argentina;AR;32
+14;Армения;Armenia;AM;51
+15;Аруба;Aruba;AW;533
+16;Афганистан;Afghanistan;AF;4
+17;Багамы;Bahamas;BS;44
+18;Бангладеш;Bangladesh;BD;50
+19;Барбадос;Barbados;BB;52
+20;Бахрейн;Bahrain;BH;48
+21;Беларусь;Belarus;BY;112
+22;Белиз;Belize;BZ;84
+23;Бельгия;Belgium;BE;56
+24;Бенин;Benin;BJ;204
+25;Бермуды;Bermuda;BM;60
+26;Болгария;Bulgaria;BG;100
+27;Боливия, Многонациональное Государство;Bolivia, plurinational state of;BO;68
+28;Бонайре, Саба и Синт-Эстатиус;Bonaire, Sint Eustatius and Saba;BQ;535
+29;Босния и Герцеговина;Bosnia and Herzegovina;BA;70
+30;Ботсвана;Botswana;BW;72
+31;Бразилия;Brazil;BR;76
+32;Британская территория в Индийском океане;British Indian Ocean Territory;IO;86
+33;Бруней-Даруссалам;Brunei Darussalam;BN;96
+34;Буркина-Фасо;Burkina Faso;BF;854
+35;Бурунди;Burundi;BI;108
+36;Бутан;Bhutan;BT;64
+37;Вануату;Vanuatu;VU;548
+38;Венгрия;Hungary;HU;348
+39;Венесуэла Боливарианская Республика;Venezuela;VE;862
+40;Виргинские острова, Британские;Virgin Islands, British;VG;92
+41;Виргинские острова, США;Virgin Islands, U.S.;VI;850
+42;Вьетнам;Vietnam;VN;704
+43;Габон;Gabon;GA;266
+44;Гаити;Haiti;HT;332
+45;Гайана;Guyana;GY;328
+46;Гамбия;Gambia;GM;270
+47;Гана;Ghana;GH;288
+48;Гваделупа;Guadeloupe;GP;312
+49;Гватемала;Guatemala;GT;320
+50;Гвинея;Guinea;GN;324
+51;Гвинея-Бисау;Guinea-Bissau;GW;624
+52;Германия;Germany;DE;276
+53;Гернси;Guernsey;GG;831
+54;Гибралтар;Gibraltar;GI;292
+55;Гондурас;Honduras;HN;340
+56;Гонконг;Hong Kong;HK;344
+57;Гренада;Grenada;GD;308
+58;Гренландия;Greenland;GL;304
+59;Греция;Greece;GR;300
+60;Грузия;Georgia;GE;268
+61;Гуам;Guam;GU;316
+62;Дания;Denmark;DK;208
+63;Джерси;Jersey;JE;832
+64;Джибути;Djibouti;DJ;262
+65;Доминика;Dominica;DM;212
+66;Доминиканская Республика;Dominican Republic;DO;214
+67;Египет;Egypt;EG;818
+68;Замбия;Zambia;ZM;894
+69;Западная Сахара;Western Sahara;EH;732
+70;Зимбабве;Zimbabwe;ZW;716
+71;Израиль;Israel;IL;376
+72;Индия;India;IN;356
+73;Индонезия;Indonesia;ID;360
+74;Иордания;Jordan;JO;400
+75;Ирак;Iraq;IQ;368
+76;Иран, Исламская Республика;Iran, Islamic Republic of;IR;364
+77;Ирландия;Ireland;IE;372
+78;Исландия;Iceland;IS;352
+79;Испания;Spain;ES;724
+80;Италия;Italy;IT;380
+81;Йемен;Yemen;YE;887
+82;Кабо-Верде;Cape Verde;CV;132
+83;Казахстан;Kazakhstan;KZ;398
+84;Камбоджа;Cambodia;KH;116
+85;Камерун;Cameroon;CM;120
+86;Канада;Canada;CA;124
+87;Катар;Qatar;QA;634
+88;Кения;Kenya;KE;404
+89;Кипр;Cyprus;CY;196
+90;Киргизия;Kyrgyzstan;KG;417
+91;Кирибати;Kiribati;KI;296
+92;Китай;China;CN;156
+93;Кокосовые (Килинг) острова;Cocos (Keeling) Islands;CC;166
+94;Колумбия;Colombia;CO;170
+95;Коморы;Comoros;KM;174
+96;Конго;Congo;CG;178
+97;Конго, Демократическая Республика;Congo, Democratic Republic of the;CD;180
+98;Корея, Народно-Демократическая Республика;Korea, Democratic People's republic of;KP;408
+99;Корея, Республика;Korea, Republic of;KR;410
+100;Коста-Рика;Costa Rica;CR;188
+101;Кот д'Ивуар;Cote d'Ivoire;CI;384
+102;Куба;Cuba;CU;192
+103;Кувейт;Kuwait;KW;414
+104;Кюрасао;Curaçao;CW;531
+105;Лаос;Lao People's Democratic Republic;LA;418
+106;Латвия;Latvia;LV;428
+107;Лесото;Lesotho;LS;426
+108;Ливан;Lebanon;LB;422
+109;Ливийская Арабская Джамахирия;Libyan Arab Jamahiriya;LY;434
+110;Либерия;Liberia;LR;430
+111;Лихтенштейн;Liechtenstein;LI;438
+112;Литва;Lithuania;LT;440
+113;Люксембург;Luxembourg;LU;442
+114;Маврикий;Mauritius;MU;480
+115;Мавритания;Mauritania;MR;478
+116;Мадагаскар;Madagascar;MG;450
+117;Майотта;Mayotte;YT;175
+118;Макао;Macao;MO;446
+119;Малави;Malawi;MW;454
+120;Малайзия;Malaysia;MY;458
+121;Мали;Mali;ML;466
+122;Малые Тихоокеанские отдаленные острова Соединенных Штатов;United States Minor Outlying Islands;UM;581
+123;Мальдивы;Maldives;MV;462
+124;Мальта;Malta;MT;470
+125;Марокко;Morocco;MA;504
+126;Мартиника;Martinique;MQ;474
+127;Маршалловы острова;Marshall Islands;MH;584
+128;Мексика;Mexico;MX;484
+129;Микронезия, Федеративные Штаты;Micronesia, Federated States of;FM;583
+130;Мозамбик;Mozambique;MZ;508
+131;Молдова, Республика;Moldova;MD;498
+132;Монако;Monaco;MC;492
+133;Монголия;Mongolia;MN;496
+134;Монтсеррат;Montserrat;MS;500
+135;Мьянма;Myanmar;MM;104
+136;Намибия;Namibia;NA;516
+137;Науру;Nauru;NR;520
+138;Непал;Nepal;NP;524
+139;Нигер;Niger;NE;562
+140;Нигерия;Nigeria;NG;566
+141;Нидерланды;Netherlands;NL;528
+142;Никарагуа;Nicaragua;NI;558
+143;Ниуэ;Niue;NU;570
+144;Новая Зеландия;New Zealand;NZ;554
+145;Новая Каледония;New Caledonia;NC;540
+146;Норвегия;Norway;NO;578
+147;Объединенные Арабские Эмираты;United Arab Emirates;AE;784
+148;Оман;Oman;OM;512
+149;Остров Буве;Bouvet Island;BV;74
+150;Остров Мэн;Isle of Man;IM;833
+151;Остров Норфолк;Norfolk Island;NF;574
+152;Остров Рождества;Christmas Island;CX;162
+153;Остров Херд и острова Макдональд;Heard Island and McDonald Islands;HM;334
+154;Острова Кайман;Cayman Islands;KY;136
+155;Острова Кука;Cook Islands;CK;184
+156;Острова Теркс и Кайкос;Turks and Caicos Islands;TC;796
+157;Пакистан;Pakistan;PK;586
+158;Палау;Palau;PW;585
+159;Палестинская территория, оккупированная;Palestinian Territory, Occupied;PS;275
+160;Панама;Panama;PA;591
+161;Папский Престол (Государство — город Ватикан);Holy See (Vatican City State);VA;336
+162;Папуа-Новая Гвинея;Papua New Guinea;PG;598
+163;Парагвай;Paraguay;PY;600
+164;Перу;Peru;PE;604
+165;Питкерн;Pitcairn;PN;612
+166;Польша;Poland;PL;616
+167;Португалия;Portugal;PT;620
+168;Пуэрто-Рико;Puerto Rico;PR;630
+169;Республика Македония;Macedonia, The Former Yugoslav Republic Of;MK;807
+170;Реюньон;Reunion;RE;638
+171;Россия;Russian Federation;RU;643
+172;Руанда;Rwanda;RW;646
+173;Румыния;Romania;RO;642
+174;Самоа;Samoa;WS;882
+175;Сан-Марино;San Marino;SM;674
+176;Сан-Томе и Принсипи;Sao Tome and Principe;ST;678
+177;Саудовская Аравия;Saudi Arabia;SA;682
+178;Свазиленд;Swaziland;SZ;748
+179;Святая Елена, Остров вознесения, Тристан-да-Кунья;Saint Helena, Ascension And Tristan Da Cunha;SH;654
+180;Северные Марианские острова;Northern Mariana Islands;MP;580
+181;Сен-Бартельми;Saint Barthélemy;BL;652
+182;Сен-Мартен;Saint Martin (French Part);MF;663
+183;Сенегал;Senegal;SN;686
+184;Сент-Винсент и Гренадины;Saint Vincent and the Grenadines;VC;670
+185;Сент-Люсия;Saint Lucia;LC;662
+186;Сент-Китс и Невис;Saint Kitts and Nevis;KN;659
+187;Сент-Пьер и Микелон;Saint Pierre and Miquelon;PM;666
+188;Сербия;Serbia;RS;688
+189;Сейшелы;Seychelles;SC;690
+190;Сингапур;Singapore;SG;702
+191;Синт-Мартен;Sint Maarten;SX;534
+192;Сирийская Арабская Республика;Syrian Arab Republic;SY;760
+193;Словакия;Slovakia;SK;703
+194;Словения;Slovenia;SI;705
+195;Соединенное Королевство;United Kingdom;GB;826
+196;Соединенные Штаты;United States;US;840
+197;Соломоновы острова;Solomon Islands;SB;90
+198;Сомали;Somalia;SO;706
+199;Судан;Sudan;SD;729
+200;Суринам;Suriname;SR;740
+201;Сьерра-Леоне;Sierra Leone;SL;694
+202;Таджикистан;Tajikistan;TJ;762
+203;Таиланд;Thailand;TH;764
+204;Тайвань (Китай);Taiwan, Province of China;TW;158
+205;Танзания, Объединенная Республика;Tanzania, United Republic Of;TZ;834
+206;Тимор-Лесте;Timor-Leste;TL;626
+207;Того;Togo;TG;768
+208;Токелау;Tokelau;TK;772
+209;Тонга;Tonga;TO;776
+210;Тринидад и Тобаго;Trinidad and Tobago;TT;780
+211;Тувалу;Tuvalu;TV;798
+212;Тунис;Tunisia;TN;788
+213;Туркмения;Turkmenistan;TM;795
+214;Турция;Turkey;TR;792
+215;Уганда;Uganda;UG;800
+216;Узбекистан;Uzbekistan;UZ;860
+217;Украина;Ukraine;UA;804
+218;Уоллис и Футуна;Wallis and Futuna;WF;876
+219;Уругвай;Uruguay;UY;858
+220;Фарерские острова;Faroe Islands;FO;234
+221;Фиджи;Fiji;FJ;242
+222;Филиппины;Philippines;PH;608
+223;Финляндия;Finland;FI;246
+224;Фолклендские острова (Мальвинские);Falkland Islands (Malvinas);FK;238
+225;Франция;France;FR;250
+226;Французская Гвиана;French Guiana;GF;254
+227;Французская Полинезия;French Polynesia;PF;258
+228;Французские Южные территории;French Southern Territories;TF;260
+229;Хорватия;Croatia;HR;191
+230;Центрально-Африканская Республика;Central African Republic;CF;140
+231;Чад;Chad;TD;148
+232;Черногория;Montenegro;ME;499
+233;Чешская Республика;Czech Republic;CZ;203
+234;Чили;Chile;CL;152
+235;Швейцария;Switzerland;CH;756
+236;Швеция;Sweden;SE;752
+237;Шпицберген и Ян Майен;Svalbard and Jan Mayen;SJ;744
+238;Шри-Ланка;Sri Lanka;LK;144
+239;Эквадор;Ecuador;EC;218
+240;Экваториальная Гвинея;Equatorial Guinea;GQ;226
+241;Эландские острова;Åland Islands;AX;248
+242;Эль-Сальвадор;El Salvador;SV;222
+243;Эритрея;Eritrea;ER;232
+244;Эстония;Estonia;EE;233
+245;Эфиопия;Ethiopia;ET;231
+246;Южная Африка;South Africa;ZA;710
+247;Южная Джорджия и Южные Сандвичевы острова;South Georgia and the South Sandwich Islands;GS;239
+248;Южная Осетия;South Ossetia;OS;896
+249;Южный Судан;South Sudan;SS;728
+250;Ямайка;Jamaica;JM;388
+251;Япония;Japan;JP;392
